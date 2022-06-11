@@ -28,7 +28,7 @@
         app:srcCompat="@drawable/background_top" />
 
     <TextView
-        android:id="@+id/KalkulatorSederhana"
+        android:id="@+id/Kriptografi"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="KRIPTOGRAFI"
@@ -43,7 +43,7 @@
         app:layout_constraintVertical_bias="0.223" />
 
     <TextView
-        android:id="@+id/VolumeTabung"
+        android:id="@+id/MetodeAES"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="METODE AES"
@@ -108,7 +108,7 @@
         android:layout_marginStart="32dp"
         android:layout_marginEnd="32dp"
         android:background="@drawable/background_login_btn"
-        android:text="ENKRPSI"
+        android:text="ENKRIPSI"
         android:textColor="#ffffff"
         android:textSize="18dp"
         android:textStyle="bold"
